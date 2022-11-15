@@ -7,10 +7,6 @@ import javax.swing.JFrame;
 import javax.swing.JTextArea;
 import javax.swing.JPanel;
 
-/**
- * A class to test Maze.java.
- * @author Koffman and Wolfgang
- */
 public class MazeTest extends JFrame {
 
     // data field
