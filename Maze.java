@@ -1,6 +1,3 @@
-package edu.njit.cs114;
-
-
 import java.awt.*;
 
 /**
