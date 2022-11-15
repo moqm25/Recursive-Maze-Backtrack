@@ -1,10 +1,5 @@
 import java.awt.*;
 
-/**
- * Class that solves maze problems with backtracking.
- *
- * @author Koffman and Wolfgang
- **/
 public class Maze {
 
     public static Color PATH = Color.green;
